@@ -2,7 +2,6 @@
 <p align="center">Hi everyone 👋. I am an Information Systems student and I am passionate about discovering new languages and using them to create high-quality solutions. Today I'm studying to be a Back-end developer, but I'm venturing a little into Front-end!</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=VictorErbs&theme=radical&mode=weekly" />
 
  </div>
  

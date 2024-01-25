@@ -36,8 +36,10 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
-&nbsp;
-&nbsp;
+#### Viwer Count: 
+
+![](https://komarev.com/ghpvc/?username=VictorEbs&color=blueviolet&style=for-the-badge&abbreviated=true)&nbsp;
+
 
 ## Contacts:
 

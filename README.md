@@ -29,10 +29,10 @@ I am an Information Systems student and I am passionate about discovering new la
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorerbs2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorerbs)
 
-![Profile Views](https://komarev.com/ghpvc/?username=VictorEbs&color=blueviolet&style=for-the-badge&abbreviated=true)
+![Profile Views](https://komarev.com/ghpvc/?username=VictorEbs&color=8F00FF&style=for-the-badge&abbreviated=true)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorErbs&title_color=8F00FF&text_color=ffffff&hide_border=true&bg_color=0d1117&layout=compact" alt="Top Langs">
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F00FF&height=150&section=footer"/>

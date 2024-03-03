@@ -1,6 +1,6 @@
 # Hi everyone 👋
 
-I am an Information Systems student and I am passionate about discovering new languages and using them to create high-quality solutions. Currently, I am studying to become a Back-end developer, but I'm also venturing into Front-end development.
+I am an Information Systems student and I am passionate about discovering new languages and using them to create high-quality solutions.
 
 ## My Skills
 

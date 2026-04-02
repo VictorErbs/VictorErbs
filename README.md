@@ -63,9 +63,4 @@ Feel free to reach out on any platform:
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorErbs&title_color=8F00FF&text_color=ffffff&hide_border=true&bg_color=0d1117&layout=compact" alt="Top Langs">
-</p>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F00FF&height=150&section=footer"/>
